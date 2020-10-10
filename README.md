@@ -4,4 +4,4 @@
 - Compared different models and analzyed their performance on tuning various Hyperparameters.
 - Plotted Confusion Matrix for the best performing model.
 
-[Dataset Used](https://www.kaggle.com/ritikasaini/telecom-churn)
+[Dataset](https://www.kaggle.com/ritikasaini/telecom-churn)
